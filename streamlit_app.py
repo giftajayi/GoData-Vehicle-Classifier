@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.title('🎈 App Name')
+st.title('GoData Vehicle Classifier')
 
-st.write('Hello world!')
+st.info('This app builds a machine learining model')
